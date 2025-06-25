@@ -122,6 +122,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0217-contains-duplicate](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [3226-minimum-number-game](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3226-minimum-number-game) |
 ## Array
 |  |
 | ------- |
@@ -136,6 +137,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0978-valid-mountain-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0978-valid-mountain-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3226-minimum-number-game](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3226-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,6 +176,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [3226-minimum-number-game](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3226-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -190,4 +193,8 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
