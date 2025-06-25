@@ -94,6 +94,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -102,5 +103,10 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
