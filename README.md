@@ -149,6 +149,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
@@ -173,6 +174,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [1448-maximum-69-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
