@@ -136,4 +136,12 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
