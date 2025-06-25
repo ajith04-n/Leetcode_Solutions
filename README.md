@@ -101,6 +101,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0242-valid-anagram](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0782-jewels-and-stones) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -110,6 +111,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0242-valid-anagram](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0782-jewels-and-stones) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3468-find-the-encrypted-string](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3468-find-the-encrypted-string) |
 ## Sorting
