@@ -136,6 +136,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0219-contains-duplicate-ii](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0978-valid-mountain-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0978-valid-mountain-array) |
+| [1293-three-consecutive-odds](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3226-minimum-number-game](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3226-minimum-number-game) |
 ## Binary Search
