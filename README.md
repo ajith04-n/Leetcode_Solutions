@@ -97,6 +97,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0001-two-sum](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
@@ -109,16 +110,19 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | ------- |
 | [0217-contains-duplicate](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0217-contains-duplicate](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,4 +131,8 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
