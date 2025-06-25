@@ -120,6 +120,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0004-median-of-two-sorted-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0217-contains-duplicate](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0978-valid-mountain-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0978-valid-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
