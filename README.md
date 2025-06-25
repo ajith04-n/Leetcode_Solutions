@@ -163,6 +163,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0231-power-of-two](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [1448-maximum-69-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3321-type-of-triangle](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
