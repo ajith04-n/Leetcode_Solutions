@@ -174,6 +174,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0258-add-digits) |
@@ -199,6 +200,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
