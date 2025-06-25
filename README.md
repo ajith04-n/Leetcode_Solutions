@@ -136,6 +136,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0001-two-sum](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0169-majority-element) |
@@ -169,6 +170,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
