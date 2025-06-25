@@ -224,4 +224,8 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0231-power-of-two) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
