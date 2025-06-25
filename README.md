@@ -184,6 +184,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0029-divide-two-integers](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0258-add-digits) |
@@ -234,4 +235,12 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
