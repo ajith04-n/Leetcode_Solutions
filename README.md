@@ -180,6 +180,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0029-divide-two-integers](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [1448-maximum-69-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
 | [3321-type-of-triangle](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
@@ -205,6 +206,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | ------- |
 | [0029-divide-two-integers](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Counting
 |  |
 | ------- |
@@ -218,4 +220,8 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
