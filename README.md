@@ -28,34 +28,7 @@ Solutions are categorized based on the following common data structures and algo
 ## 🛠 Languages Used
 
 - **Java** (primary)
-- May include future support for **Python** or **C++**
-
-## 📁 Repository Structure
-
-Leetcode_Solutions/
-│
-├── Easy/
-│ ├── ProblemName.java
-│ └── ...
-│
-├── Medium/
-│ ├── ProblemName.java
-│ └── ...
-│
-├── Hard/
-│ ├── ProblemName.java
-│ └── ...
-│
-├── README.md
-└── ...
-
-Each file is named after the problem title in PascalCase format. Example:
-
-TwoSum.java
-GroupAnagrams.java
-MergeKSortedLists.java
-
-
+- May include future support for **Python** or **C++** or **mysql**
 
 ## 📌 How to Use
 
