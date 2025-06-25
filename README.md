@@ -122,6 +122,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0217-contains-duplicate](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1019-squares-of-a-sorted-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3226-minimum-number-game) |
 ## Array
 |  |
@@ -136,6 +137,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0219-contains-duplicate-ii](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0978-valid-mountain-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0978-valid-mountain-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3226-minimum-number-game](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3226-minimum-number-game) |
@@ -163,6 +165,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0125-valid-palindrome](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1019-squares-of-a-sorted-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
