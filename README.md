@@ -110,6 +110,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0242-valid-anagram](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0782-jewels-and-stones) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3468-find-the-encrypted-string](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3468-find-the-encrypted-string) |
 ## Sorting
 |  |
@@ -132,6 +133,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0219-contains-duplicate-ii](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0978-valid-mountain-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0978-valid-mountain-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Binary Search
 |  |
 | ------- |
