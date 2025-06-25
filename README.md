@@ -179,6 +179,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0043-multiply-strings) |
