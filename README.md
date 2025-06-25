@@ -95,6 +95,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -106,6 +107,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -174,6 +176,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
