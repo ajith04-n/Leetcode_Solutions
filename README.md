@@ -141,9 +141,18 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [1448-maximum-69-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
 ## Greedy
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
