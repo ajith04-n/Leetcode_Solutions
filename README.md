@@ -109,6 +109,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | ------- |
 | [0013-roman-to-integer](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0242-valid-anagram) |
@@ -178,6 +179,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | ------- |
 | [0013-roman-to-integer](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0231-power-of-two) |
@@ -191,6 +193,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [3226-minimum-number-game](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3226-minimum-number-game) |
 ## Number Theory
