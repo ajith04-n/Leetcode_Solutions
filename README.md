@@ -97,11 +97,13 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0001-two-sum](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0782-jewels-and-stones](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0782-jewels-and-stones](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0782-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
