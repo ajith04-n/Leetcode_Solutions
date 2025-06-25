@@ -124,6 +124,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
 ## Array
 |  |
 | ------- |
@@ -141,6 +142,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [1293-three-consecutive-odds](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3226-minimum-number-game](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +174,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0171-excel-sheet-column-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [1448-maximum-69-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
+| [3321-type-of-triangle](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
