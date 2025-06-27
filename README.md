@@ -81,6 +81,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
@@ -220,4 +221,8 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
