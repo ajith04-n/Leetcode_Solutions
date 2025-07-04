@@ -1,9 +1,7 @@
 class Solution {
     public int lengthOfLastWord(String s) {
-        String arr[] = s.split(" ");
-        String m = arr[arr.length-1];
-        int k = m.length();
-        return k;
-        
+        String[] str = s.split(" ");
+        String k = str[str.length - 1];
+        return k.length();
     }
 }
