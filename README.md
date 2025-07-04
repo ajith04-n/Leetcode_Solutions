@@ -124,6 +124,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0169-majority-element](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0978-valid-mountain-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -233,4 +234,8 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
