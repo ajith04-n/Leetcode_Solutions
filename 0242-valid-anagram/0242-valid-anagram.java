@@ -12,7 +12,7 @@ class Solution {
         for(int i =0;i<k;i++){
         if(ch1[i]!=ch2[i]){
             return false;
-        }
+            }
         }
         return true;
     }
