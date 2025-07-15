@@ -121,6 +121,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0027-remove-element](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0136-single-number) |
@@ -203,6 +204,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0231-power-of-two) |
@@ -249,4 +251,8 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
