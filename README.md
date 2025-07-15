@@ -167,6 +167,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0029-divide-two-integers) |
@@ -221,6 +222,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Database
 |  |
@@ -243,4 +245,8 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
