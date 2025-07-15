@@ -131,6 +131,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0219-contains-duplicate-ii](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0739-daily-temperatures](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0978-valid-mountain-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1293-three-consecutive-odds) |
@@ -154,6 +155,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -256,4 +258,8 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
