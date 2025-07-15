@@ -84,6 +84,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
@@ -163,6 +164,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -242,6 +244,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
