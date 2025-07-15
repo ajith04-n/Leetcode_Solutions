@@ -75,6 +75,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0217-contains-duplicate](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0782-jewels-and-stones) |
@@ -108,6 +109,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0169-majority-element](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3226-minimum-number-game) |
@@ -130,6 +132,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0217-contains-duplicate](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0739-daily-temperatures](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0978-valid-mountain-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0978-valid-mountain-array) |
@@ -151,6 +154,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0004-median-of-two-sorted-arrays](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -215,10 +219,12 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3226-minimum-number-game](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3226-minimum-number-game) |
 ## Queue
 |  |
@@ -262,4 +268,12 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
