@@ -1,21 +1,20 @@
 class Solution {
     public boolean isValid(String s) {
-        while(s.length()!=0){
-            if(s.contains("()")){
-                s=s.replace("()","");
+        char[] stack = new char[s.length()];
+        int top = -1;
+        for (char c : s.toCharArray()) {
+            if (c == '(') {
+                stack[++top] = ')';
+            } else if (c == '{') {
+                stack[++top] = '}';
+            } else if (c == '[') {
+                stack[++top] = ']';
+            } else {
+                if (top == -1 || stack[top] != c)
+                    return false;
+                top--;
             }
-             else if(s.contains("[]")){
-                s=s.replace("[]","");
-            }
-             else if(s.contains("{}")){
-                s=s.replace("{}","");
-            }
-            else{
-                 return false;
-            }
-            
         }
-        return true;
-        
+        return top == -1;
     }
 }
