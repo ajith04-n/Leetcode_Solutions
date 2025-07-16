@@ -140,6 +140,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | [0978-valid-mountain-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1293-three-consecutive-odds) |
+| [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3226-minimum-number-game](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
@@ -195,6 +196,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1448-maximum-69-number) |
+| [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 ## Simulation
 |  |
 | ------- |
@@ -210,6 +212,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -260,6 +263,7 @@ I'm constantly updating this repo as I solve more problems. Stay tuned!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [1805-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/ajith04-n/Leetcode_Solutions/tree/master/1805-minimum-adjacent-swaps-for-k-consecutive-ones) |
 ## Linked List
 |  |
 | ------- |
